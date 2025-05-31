@@ -1,17 +1,17 @@
 import os
 
 class Config(object):
-    API_ID = int(6435225) #dont change
-    API_HASH = "4e984ea35f854762dcde906dce426c2d" #dont change 
-    BOT_TOKEN = "" #fill your telegram bot token
-    STRING_SESSION = "" #an Telethon Session 
+    API_ID = int(22190695) #dont change
+    API_HASH = "92f12a17818d71c8784e98a64a164e9e" #dont change 
+    BOT_TOKEN = "7311288614:AAHecPFp5NnBrs4dJiR_l9lh1GB3zBAP_Yo" #fill your telegram bot token
+    STRING_SESSION = "1AZWarzgBu8AuRw-vr8egwwFyNRuIlSQ-vzCqbFmiKf6043ED3msnSWgCQbU97xQiQUyjRSFV3hEcIWchtGg4Gw6t37Or3af4EdzUy_ShQb5SDrHK6CHcyjwfdJcqaCfDiEzUgOTxrSu04dhPIkFaquyy30sYnGnumiv_9AqxBlQxj2dZHFJTOyQrhxBUUTIe74DmGaOGSo75JZIdeJgMKDJgz_qfGVsqYvwsY1wE-IGfe_f_MSR9hvPIcwvdkk4PUNOMCNPe93_uvoz1uasyDF6STvzE6EBWanW-691RLlpFoxdX4CdIyQwKinM7pYLOvuNgi5GGKg705PkhjBUZspGO5n_RVrg=" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
     HEROKU_MODE = None #dont change
-    BOT_USERNAME = "Zaid2_Robot" #Your Bot username 
+    BOT_USERNAME = "Xmusiclabbot" #Your Bot username 
     SUPPORT = "TheSupportChat" #optional
     CHANNEL = "TheUpdatesChannel" #optional
     START_IMG = "https://telegra.ph/file/35a7b5d9f1f2605c9c0d3.png"
     CMD_IMG = "https://telegra.ph/file/66518ed54301654f0b126.png"
-    ASSISTANT_ID = int(1234567890) #your string added account user id..
+    ASSISTANT_ID = int(7512264381) #your string added account user id..
     AUTO_LEAVE_TIME = int(54000) # in seconds
     AUTO_LEAVE = True #Optional
